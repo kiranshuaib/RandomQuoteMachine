@@ -1,0 +1,41 @@
+.quote , .author {
+  color: black;}
+button{
+  font-family: 'IM Fell DW Pica SC', serif;
+  color:
+}
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 36px;
+
+}
+.quotes {
+ width: 70%;
+ margin-left: 15%;
+ margin-top: 10%;
+ font-size: 30px;
+ font-family: 'Pacifico', cursive;
+}
+.author {
+  float: right;
+  font-family: 'Romanesco', cursive;
+  }
+
+.container {
+  margin-top: 10%;
+  color: beige;
+}
+p{
+  font-family: 'Catamaran', sans-serif;
+}
+button:hover {
+  box-shadow: 4px 4px;
+  transition: 1s;
+}
+button:active {
+transform: translateY(4px);
+}
+
+body{
+  background-image: url(https://avante.biz/wp-content/uploads/Background-Pictures/Background-Pictures-009.jpg);
+}
